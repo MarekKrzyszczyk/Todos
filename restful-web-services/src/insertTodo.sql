@@ -1,0 +1,2 @@
+insert INTO todos(description, is_done, target_date, username) VALUES ('Learn React', false, '2020-11-01', 'mkrzyszczyk');
+insert INTO todos(description, is_done, target_date, username) VALUES ('Be master of java', false, '2020-12-01', 'mkrzyszczyk');

@@ -24,4 +24,5 @@ yarn-error.log*
 
 todo-app/.idea/
 .idea/
+todo-app/node_modules
 README.md
